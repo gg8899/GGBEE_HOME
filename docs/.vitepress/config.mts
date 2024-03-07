@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/ggbee/",
   title: "ggbee",
   description: "知识体系，个人总结",
   themeConfig: {
