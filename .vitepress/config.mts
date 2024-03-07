@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/ggbee/', // vitepress是我的仓库名，根据自己的进行修改
   title: "GGBEE HOME PAGE",
   description: "个人主页",
   themeConfig: {
