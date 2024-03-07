@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "ggbee_home"
-  text: "知识体系，技能树"
-  tagline: My great project tagline
+  name: "ggbee"
+  text: "知识体系，个人总结"
+  tagline: 专注前端技术
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 快速开始
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: About
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 前端开发
+    details: TODO
+  - title: 服务端开发
+    details: TODO
+  - title: 开发经验沉淀
+    details: TODO
 ---
 
