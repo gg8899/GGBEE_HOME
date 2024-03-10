@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "ggbee"
   text: "知识体系，个人总结"
-  tagline: 专注前端技术
+  tagline: 学习成长路径，学到老，轰轰轰轰轰！
   actions:
     - theme: brand
       text: 快速开始
