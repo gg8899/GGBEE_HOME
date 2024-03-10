@@ -9,17 +9,20 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /markdown-examples
+      link: /1-fe-foundation/html-css
     - theme: alt
       text: About
-      link: /api-examples
+      link: /about
 
 features:
   - title: 前端开发
-    details: TODO
+    details: FRONT-END DEVELOPMENT
+
   - title: 服务端开发
-    details: TODO
+    details: SERVER SIDE DEVELOPMENT
+
   - title: 开发经验沉淀
-    details: TODO
+    details: DEVELOPMENT EXPERIENCE ACCUMULATED
+
 ---
 
