@@ -8,5 +8,4 @@
 
 技术交流、合作 +v
 
-![](../wexin.jpg)
-
+<img src="./wexin.jpg" style="width:100px" />
